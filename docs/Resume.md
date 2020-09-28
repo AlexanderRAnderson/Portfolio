@@ -31,7 +31,7 @@ ama7019 at psu.edu
 - Participated in a 24-hour game jam within a group to achieve the goal of creating a working game
 - Aided in a fundraiser for the Game Development Club  
 
-## **Customer Service Work Experience
+## **Customer Service Work Experience**
 ### **Fuddruckers, Cook**, Hershey, PA
 - Communicate with customers regarding orders, comments, and complaints
 - Perform personnel activities such as supervising and training employees
