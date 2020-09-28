@@ -1,13 +1,7 @@
 ## [About Me](Me.md) || [Resume](Resume.md)
-# Welcome to my personal portfolio!
+# Welcome to my personal portfolio!  
 
-My name is Alex Anderson and I am a Junior at Penn State majoring in Software Engineering.
-I love to play videogames and develop them.
-My dream job is to work in the game industry as a game designer.  
-![This is a picture of me taken at the 2018 career fair at Behrend](https://raw.githubusercontent.com/AlexanderRAnderson/my_site/master/docs/images/Alex.jpg)  
-
-On this main page I will provide some digital projects I have worked on. 
-There is a seperate page for my résumé.  
+On this main page I will provide some digital projects I have worked on.  
 
 ![3D model of a fence that I made for an internship](https://raw.githubusercontent.com/AlexanderRAnderson/my_site/master/docs/images/Fence.PNG)  
 This was a 3D model of a fence that I created for a virtual reality research internship for Penn State during the 2020 summer. I think it was an enjoyable experience to create 3D models from scratch to add to a working virtual reality game.  
