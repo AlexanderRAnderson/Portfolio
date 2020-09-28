@@ -2,7 +2,7 @@
 ## Welcome to my personal portfolio!
 
 I am a Junior at Penn State majoring in Software Engineering.
-![This is a picture of me taken at the 2018 career fair at Behrend](/docs/images/Forest.png)
+![This is a picture of me taken at the 2018 career fair at Behrend](https://raw.githubusercontent.com/AlexanderRAnderson/my_site/master/docs/images/Alex.jpg)
 
 On this main page I will provide some digital projects I have worked on. 
               There is a seperate page for my résumé.
