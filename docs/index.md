@@ -7,7 +7,7 @@ I am a Junior at Penn State majoring in Software Engineering.
 On this main page I will provide some digital projects I have worked on. 
               There is a seperate page for my résumé.
 
-![3D model of a fence that I made for an internship](/docs/images/Fence.PNG)
+![3D model of a fence that I made for an internship](https://raw.githubusercontent.com/AlexanderRAnderson/my_site/master/docs/images/Fence.PNG)
 This was a 3D model of a fence that I created for a virtual reality research internship for Penn State during the 2020 summer. I think it was an enjoyable experience to create 3D models from scratch to add to a working virtual reality game.
 
 ![Photoshopped picture of a monster in a forest](https://raw.githubusercontent.com/AlexanderRAnderson/my_site/master/docs/images/Forest.png)
