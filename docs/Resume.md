@@ -2,16 +2,16 @@
 # Alex Anderson  
 
 ## **Education**
-Penn State Erie, the Behrend College
+### Penn State Erie, the Behrend College
 - Software Engineering, Bachelor of Science
 - Minor in Game Development  
 
 ## Academic Projects
-**Game Development Project**
+### **Game Development Project**
 - Developed a game using Unreal Engine 4 including artificial intelligence and level design
 - Created user interface elements, custom timers, and advanced custom events
 - Analyzed the game code and play tested to establish problems with the code leading to revamped code  
-**Video Editing Project**
+### **Video Editing Project**
 - Designed and planned a 3-minute video inclusing music and photographs
 - Combined both video editing and photoshopping to create a professional portfolio  
-**Room Modeling Project**
+### **Room Modeling Project**
