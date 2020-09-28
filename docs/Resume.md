@@ -1,4 +1,4 @@
-## [About Me](Me.md) || [Porfolio](index.md)
+## [About Me](Me.md) || [Portfolio](index.md)
 # Alex Anderson  
 ama7019 at psu.edu  
 ## **Education**
@@ -17,4 +17,22 @@ ama7019 at psu.edu
 ### **Room Modeling Project**
 - Adapted a photograph of a room into a full 3D render
 - Designed several pieces of furniture including models
-- Researched new and innovative modeling techniques
+- Researched new and innovative modeling techniques  
+
+## **Software Skills**
+- C++ (intermediate)
+- Photoshop (advanced)
+- Autodesk Maya (advanced)
+- Unreal Engine 4 (intermediate)  
+
+## **Campus Involvement**
+### **Game Development Club, Participant**, Penn State Behrend
+- Competed in 24-hour gaming marathon that raised money for children's health
+- Participated in a 24-hour game jam within a group to achieve the goal of creating a working game
+- Aided in a fundraiser for the Game Development Club  
+
+## **Customer Service Work Experience
+### **Fuddruckers, Cook**, Hershey, PA
+- Communicate with customers regarding orders, comments, and complaints
+- Perform personnel activities such as supervising and training employees
+- Notify kitchen personnel of shortages or special orders
