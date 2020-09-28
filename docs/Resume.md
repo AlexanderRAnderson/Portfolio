@@ -6,7 +6,7 @@
 - Software Engineering, Bachelor of Science
 - Minor in Game Development  
 
-## Academic Projects
+## **Academic Projects**
 ### **Game Development Project**
 - Developed a game using Unreal Engine 4 including artificial intelligence and level design
 - Created user interface elements, custom timers, and advanced custom events
