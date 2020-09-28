@@ -10,7 +10,7 @@ On this main page I will provide some digital projects I have worked on.
 ![3D model of a fence that I made for an internship](/docs/images/Fence.PNG)
 This was a 3D model of a fence that I created for a virtual reality research internship for Penn State during the 2020 summer. I think it was an enjoyable experience to create 3D models from scratch to add to a working virtual reality game.
 
-![Photoshopped picture of a monster in a forest](/docs/images/Forest.png)](https://raw.githubusercontent.com/AlexanderRAnderson/my_site/master/docs/images/Forest.png)
+![Photoshopped picture of a monster in a forest](https://raw.githubusercontent.com/AlexanderRAnderson/my_site/master/docs/images/Forest.png)
 This was a photoshop assignment for ART 168 in my third semester of being at Penn State Behrend.
 
 ![Rendered photo of a 3D modeled room](/docs/images/Forest.png)
