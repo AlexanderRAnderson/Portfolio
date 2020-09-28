@@ -1,4 +1,4 @@
-# Welcome to my personal portfolio!
+<div align="center"># Welcome to my personal portfolio!
 
 My name is Alex Anderson and I am a Junior at Penn State majoring in Software Engineering.
 I love to play videogames and develop them.
@@ -16,3 +16,4 @@ This was a photoshop assignment for ART 168 in my third semester of being at Pen
 
 ![Rendered photo of a 3D modeled room](https://raw.githubusercontent.com/AlexanderRAnderson/my_site/master/docs/images/Room.PNG)
 This was the final assignment in ART 168. The assignment was to 3D model a room and to have a completely rendered photo of your room. I thought that this project brought to light some of the more important aspects of creating an environment.  
+</div>
