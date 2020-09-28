@@ -1,6 +1,6 @@
 ## [About Me](Me.md) || [Porfolio](index.md)
 # Alex Anderson  
-
+ama7019 at psu.edu  
 ## **Education**
 ### Penn State Erie, the Behrend College
 - Software Engineering, Bachelor of Science
