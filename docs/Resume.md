@@ -15,3 +15,6 @@ ama7019 at psu.edu
 - Designed and planned a 3-minute video inclusing music and photographs
 - Combined both video editing and photoshopping to create a professional portfolio  
 ### **Room Modeling Project**
+- Adapted a photograph of a room into a full 3D render
+- Designed several pieces of furniture including models
+- Researched new and innovative modeling techniques
