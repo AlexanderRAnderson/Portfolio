@@ -1,7 +1,9 @@
 # Alex Anderson's Portfolio Website
 ## Welcome to my personal portfolio!
 
-I am a Junior at Penn State majoring in Software Engineering.
+My name is Alex Anderson and I am a Junior at Penn State majoring in Software Engineering.
+I love to play videogames and develop them.
+My dream job is to work in the game industry as a game designer.
 ![This is a picture of me taken at the 2018 career fair at Behrend](https://raw.githubusercontent.com/AlexanderRAnderson/my_site/master/docs/images/Alex.jpg)
 
 On this main page I will provide some digital projects I have worked on. 
