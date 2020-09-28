@@ -1,4 +1,4 @@
-## [About Me](Me.md) ## [Resume](Resume.md)
+## [About Me](Me.md)  [Resume](Resume.md)
 # Welcome to my personal portfolio!
 
 My name is Alex Anderson and I am a Junior at Penn State majoring in Software Engineering.
