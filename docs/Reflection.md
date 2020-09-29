@@ -1,3 +1,4 @@
+## [About Me](index.md) || [Portfolio](Portfolio.md) || [Resume](Resume.md)
 # My Reflection Between Developing Websites on WordPress Versus GitHub
 
 GitHub had a higher learning curve in terms of trying to figure out new stuff. You had to look up some stuff on the internet to understand something that you did not know before. 
