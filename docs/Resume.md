@@ -1,4 +1,4 @@
-## [About Me](Me.md) || [Portfolio](index.md)
+## [About Me](index.md) || [Portfolio](Portfolio.md)
 # Alex Anderson  
 ama7019 at psu.edu  
 ## **Education**
