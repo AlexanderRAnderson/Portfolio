@@ -1,7 +1,5 @@
 ## [About Me](index.md) || [Resume](Resume.md)  || [Reflection](Reflection.md)
-# Welcome to my personal portfolio!  
-
-On this main page I will provide some digital projects I have worked on.  
+# Welcome to my personal portfolio!   
 
 ![3D model of a fence that I made for an internship](https://raw.githubusercontent.com/AlexanderRAnderson/my_site/master/docs/images/Fence.PNG)  
 This was a 3D model of a fence that I created for a virtual reality research internship for Penn State during the 2020 summer. I think it was an enjoyable experience to create 3D models from scratch to add to a working virtual reality game.  
