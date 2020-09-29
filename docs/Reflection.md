@@ -9,3 +9,5 @@ WordPress has the advantage of not needing to look anything up and just finding 
 You do not need to remember any code. It was also easier and faster to create a simple but organized website. 
 GitHub starts with you needing to have some knowledge of the code while WordPress is easy to use without having to learn anything. 
 I would need to learn more of the coding language for GitHub to create better websites, but I would improve on WordPress by just exploring the website a bit more.
+
+[My Other Site](https://sites.psu.edu/andersonportfolio/)
