@@ -1,5 +1,4 @@
-## [About Me](index.md) || [Portfolio](Portfolio.md)  || [Comparison](Comparison.md)
-# Alex Anderson  
+## [About Me](index.md) || [Portfolio](Portfolio.md)  || [Reflection](Reflection.md)
 ama7019 at psu.edu  
 ## **Education**
 ### Penn State Erie, the Behrend College
