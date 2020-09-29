@@ -1,4 +1,4 @@
-## [About Me](Me.md) || [Resume](Resume.md)  || [Comparison](Comparison.md)
+## [About Me](index.md) || [Resume](Resume.md)  || [Comparison](Comparison.md)
 # Welcome to my personal portfolio!  
 
 On this main page I will provide some digital projects I have worked on.  
